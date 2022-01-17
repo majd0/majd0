@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majd Ashour</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/majdashour2" target="blank"><img src="https://img.shields.io/twitter/follow/majdashour2?logo=twitter&style=for-the-badge" alt="majdashour2" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/majdashour2" target="blank"><img src="https://img.shields.io/twitter/follow/majdashour2?logo=twitter&style=for-the-badge" alt="majdashour2" /></a> </p> -->
 
 - 🌱 I’m currently learning **Angular**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashour.majd@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?authkey=%21AFxFARA6WLQ3fG8&id=DABF25C9C7E6DCE0%21903&cid=DABF25C9C7E6DCE0](https://onedrive.live.com/?authkey=%21AFxFARA6WLQ3fG8&id=DABF25C9C7E6DCE0%21903&cid=DABF25C9C7E6DCE0)
+- 📄 Know about my experiences [Resume](https://onedrive.live.com/?authkey=%21AFxFARA6WLQ3fG8&id=DABF25C9C7E6DCE0%21903&cid=DABF25C9C7E6DCE0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
