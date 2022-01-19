@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://www.dev-majd.ml/](https://www.dev-majd.ml/)
+- 👨‍💻 Visit my website at [https://www.dev-majd.ml/](https://www.dev-majd.ml/)
 
 - 💬 Ask me about **Web Development process**
 
