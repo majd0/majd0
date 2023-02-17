@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 My website: [https://www.dev-majd.ml/](https://www.dev-majd.ml/)
+- 👨‍💻 My website: [https://dev-majd.netlify.app/](https://dev-majd.netlify.app/)
 
 - 💬 Ask me about **Web Development process**
 
