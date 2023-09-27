@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/majdashour2" target="blank"><img src="https://img.shields.io/twitter/follow/majdashour2?logo=twitter&style=for-the-badge" alt="majdashour2" /></a> </p> -->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently Mastering **Data science**
 
 - 👨‍💻 My website: [https://dev-majd.netlify.app/](https://dev-majd.netlify.app/)
 
